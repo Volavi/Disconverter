@@ -46,7 +46,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 5. Post memes
 
 
-## Requirements
+## ⚙️ Requirements
 
 - Python 3+
 - FFmpeg installed and in PATH (google how to install for your OS and how to set in PATH)
