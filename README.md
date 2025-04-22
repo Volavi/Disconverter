@@ -16,7 +16,7 @@ A simple script that converts videos to Discord-friendly formats and compresses 
 
 ## 🔧 How To Use
 
-1. Clone this repository
+1. Clone this [repository](https://github.com/Volavi/Disconverter/archive/refs/heads/main.zip)
 2. Install FFmpeg:
    - Windows: Download from https://ffmpeg.org/download.html
    - Linux: `sudo apt install ffmpeg`
