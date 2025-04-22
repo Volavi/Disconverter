@@ -22,7 +22,7 @@ A simple script that converts videos to Discord-friendly formats and compresses 
    - Linux: `sudo apt install ffmpeg`
    - macOS: `brew install ffmpeg`
 <details>
-<summary>📦 FFmpeg Install to PATH (via Chocolatey)</summary>
+<summary>📥 FFmpeg Install to PATH (via Chocolatey)</summary>
 
 ### Command Prompt (Admin):
 ```cmd
