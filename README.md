@@ -11,7 +11,7 @@ A simple script that converts videos to Discord-friendly formats and compresses 
 ## What It Does
 
 1. Goes through all files within a folder
-2. Converts all videos in a set path to H.264 (plays everywhere)
+2. Converts all videos to H.264 (plays everywhere)
 3. Makes compressed copies under 10MB for Discord
 4. Remembers which files it's already processed with hashing
 
