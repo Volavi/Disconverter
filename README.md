@@ -39,6 +39,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 > - The `-y` flag auto-confirms installations  
 > - Adds FFmpeg to PATH automatically
 </details>
+
 2. Make sure that `paths.txt` is in the same folder with the script.
 3. Type your media paths in the `paths.txt` on marked rows (don't include the "{}" -chars)
 4. Run the script
