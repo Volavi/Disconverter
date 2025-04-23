@@ -1,4 +1,4 @@
-# 🎥 Video Processor for Discord
+# 🎥 Video Processor for Discord unfriendly media
 
 A simple script that converts videos to Discord-friendly formats and compresses them under 10MB.
 
@@ -10,19 +10,20 @@ A simple script that converts videos to Discord-friendly formats and compresses 
 
 ## What It Does
 
-1. Converts all videos in a set path to H.264 (plays everywhere)
-2. Makes compressed copies under 10MB for Discord
-3. Remembers which files it's already processed with hashing
+1. Goes through all files within a folder
+2. Converts all videos to H.264 (plays everywhere)
+3. Makes compressed copies under 10MB for Discord
+4. Remembers which files it's already processed with hashing
 
 ## 🔧 How To Use
 
-1. Clone this repository
+1. Clone this [repository](https://github.com/Volavi/Disconverter/archive/refs/heads/main.zip)
 2. Install FFmpeg:
    - Windows: Download from https://ffmpeg.org/download.html
    - Linux: `sudo apt install ffmpeg`
    - macOS: `brew install ffmpeg`
 <details>
-<summary>📦 FFmpeg Install to PATH (via Chocolatey)</summary>
+<summary>📥 FFmpeg Install to PATH (via Chocolatey)</summary>
 
 ### Command Prompt (Admin):
 ```cmd
@@ -39,13 +40,14 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 > - The `-y` flag auto-confirms installations  
 > - Adds FFmpeg to PATH automatically
 </details>
+
 2. Make sure that `paths.txt` is in the same folder with the script.
 3. Type your media paths in the `paths.txt` on marked rows (don't include the "{}" -chars)
 4. Run the script
 5. Post memes
 
 
-## Requirements
+## ⚙️ Requirements
 
 - Python 3+
 - FFmpeg installed and in PATH (google how to install for your OS and how to set in PATH)
