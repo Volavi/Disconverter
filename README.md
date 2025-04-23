@@ -1,4 +1,4 @@
-# 🎥 Video Processor for Discord
+# 🎥 Video Processor for Discord unfriendly media
 
 A simple script that converts videos to Discord-friendly formats and compresses them under 10MB.
 
