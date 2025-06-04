@@ -57,6 +57,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 
 </details>
 
+3. Install tkinter `pip install tkinter`
 3. Run `disconvert.py`
 4. Use the interface to:
 
