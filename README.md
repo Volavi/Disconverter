@@ -58,7 +58,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 </details>
 
 3. Install tkinter `pip install tkinter`
-4. * You can also edit `paths.txt` and provide persistent paths:
+4. You can also edit `paths.txt` and provide persistent paths:
 
      * Line 2: Source folder
      * Line 3: Output folder
