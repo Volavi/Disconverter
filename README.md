@@ -58,14 +58,18 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 </details>
 
 3. Install tkinter `pip install tkinter`
-3. Run `disconvert.py`
-4. Use the interface to:
+4. * You can also edit `paths.txt` and provide persistent paths:
+
+     * Line 2: Source folder
+     * Line 3: Output folder
+4. Run `disconvert.py`
+5. Use the interface to:
 
    * Select a source directory
    * Select an output directory (for compressed videos)
    * Press "Start Processing"
-5. Enjoy auto-compression and a debug console if needed
-6. Press "Redo" to run again without re-selecting paths
+6. Enjoy auto-compression and a debug console if needed
+7. Press "Redo" to run again without re-selecting paths
 
 ### ⚡ Option 2: Script-Only (Light Mode)
 
